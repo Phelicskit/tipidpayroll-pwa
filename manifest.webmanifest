@@ -1,0 +1,17 @@
+{
+  "name": "TipidPayroll — Crew Payroll PH",
+  "short_name": "TipidPayroll",
+  "description": "Sweldo ng crew, walang sabit: arawan, pakyaw, bale, OT/holiday (DOLE), lingguhang payroll sheet na may pirmahan. Offline, libre.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#263238",
+  "theme_color": "#263238",
+  "lang": "tl",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
